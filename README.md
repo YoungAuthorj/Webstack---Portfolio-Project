@@ -9,7 +9,7 @@
 It is a project for a hotel website **landing page**, **About page**, and **Contact page**
 
 
-##link to website: https://jrh.pythonanywhere.com/
+## link to website: https://jrh.pythonanywhere.com/
 
 ## Built With
 Html/css
