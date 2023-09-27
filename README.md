@@ -13,7 +13,8 @@ It is a project for a hotel website **landing page**, **About page**, and **Cont
 Html/css
 Javascripts
 Jquery
-
+Python
+SQL-lite
 
 
 ## TEAM PROJECT - AUTHORS
